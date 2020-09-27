@@ -9,7 +9,7 @@ This repository contains the source code associated for the UDL'20 paper entitle
 
 ## Latest Version
 
-For the latest version of our aPU implementation, see our official [aPU learner repository](https://github.com/ZaydH/arbitrary_pu).  Please open issues in that repository.
+Official version of the paper published at NeurIPS'20.  See the official and latest version of the [aPU learner repository](https://github.com/ZaydH/arbitrary_pu).  Please open issues in that repository.
 
 ## Running the Program
 
